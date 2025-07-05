@@ -76,7 +76,7 @@ We welcome contributions! If you have an idea for a new utility or an improvemen
 ## License
 
 This repository is licensed under the **MIT License**.  
-See [`LICENSE.md`](./LICENSE.md) for more details.
+See [`LICENSE.md`](./LICENSE) for more details.
 
 ---
 
